@@ -1,0 +1,2 @@
+# hackeru
+Distribution script
